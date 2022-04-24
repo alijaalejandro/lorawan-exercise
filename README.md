@@ -7,8 +7,9 @@ This repo is about a practical exercise (in summary) on:
 3. Configuring the gateway as a network server to route the LoRa traffic to a MQTT broker
 
 
-![node-red](/images/IMG_6019.HEIC)
-
+![gateway/node/sensor](/images/IMG_6021.png)
+![gateway/node/sensor](/images/IMG_6019.png)
+![gateway/node/sensor](/images/IMG_6020.png)
 
 # What do we need to try this?
 
