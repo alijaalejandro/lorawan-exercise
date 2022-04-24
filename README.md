@@ -6,6 +6,10 @@ This repo is about a practical exercise (in summary) on:
 2. Capturing these data by using a LoRaWAN gateway
 3. Configuring the gateway as a network server to route the LoRa traffic to a MQTT broker
 
+
+![node-red](/images/IMG_6019.HEIC)
+
+
 # What do we need to try this?
 
 To develop this lab we have a set of LoRaWAN transmitter node and gateway. Both are commercial equipment from Advantech.
